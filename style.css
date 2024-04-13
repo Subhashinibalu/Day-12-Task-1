@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+body{
+    font-family: "Quicksand", sans-serif !important;
+    background-color: #CAD2C5 !important;
+}
+header{
+    background-color: #2F3D46;
+    color:white;
+   
+}
+.bi{
+    font-size: 40px;
+}
+.git{
+    font-size: 25px;
+    text-align: center;
+}
+
+.side{
+    height: 500px;
+    background-color: #2F3D46;
+    border-radius: 30px;
+}
+.sider{
+    height: 500px;
+   
+    border-radius: 30px;
+    
+}
+.searchbar{
+    background-color: #2F3D46 ;
+    color:#CAD2C5 !important;
+    border-radius: 10px;
+    
+}
+.box{
+    background-color: #2F3D46 ;
+    height: 130px;
+    border-radius: 20px;
+}
+.box1{
+    background-color: #2F3D46 ;
+    height: 170px;
+    border-radius: 20px;
+}
